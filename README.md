@@ -12,4 +12,4 @@ Karsilikli etkilesimle SPAGETTI kodlarina SON! diyelim.:)
 
 Yildiz vermeyi unutmayalım.:) 
 
-![image](https://user-images.githubusercontent.com/61596919/117068908-8539e280-ad34-11eb-8723-d85bf7f1912b.png)
+![image](https://user-images.githubusercontent.com/61596919/117069152-d6e26d00-ad34-11eb-8dab-18b751f72ae2.png)
