@@ -6,10 +6,6 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 
 Inceleyip oneri ve goruslerinizi melikkrc25@gmail.com adresine iletebilirsiniz.
 
-Lutfen yanlislarimi bildirmede cekinmeyiniz.
-
-Karsilikli etkilesimle SPAGETTI kodlarina SON! diyelim.:)
-
 Yildiz vermeyi unutmayalım.:) 
 
 ![image](https://user-images.githubusercontent.com/61596919/117069343-08f3cf00-ad35-11eb-8863-c67b1f0f5760.png)
