@@ -47,7 +47,9 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 <li><a<em>homework2</em></a></li>
 </ul>
 </li>
-<li><strong>Lecture 7</strong><li>swaggerAndResult</li>
+<li><strong>Lecture 7</strong>
+<ul>
+<li>swaggerAndResult</li>
 </ul>
 </li>
 <li><strong>Lecture 8</strong>
