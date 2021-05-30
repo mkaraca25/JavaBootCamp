@@ -9,7 +9,6 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 <ul>
 <li><strong>Lecture 1</strong>
 <ul>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture1-intro/src/intro"><em>intro</em></a></li>
 </ul>
 </li>
 <li><strong>Lecture 2</strong>
