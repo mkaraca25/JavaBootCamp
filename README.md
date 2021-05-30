@@ -16,42 +16,48 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 </li>
 <li><strong>Lecture 2</strong>
 <ul>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture2-oopIntro/src/oopIntro"><em>oopIntro</em></a></li>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture2.2-homework/src/homework"><em>homework</em></a></li>
+<li><a<em>oopIntro</em></a></li>
+<li><a<em>homework</em></a></li>
 </ul>
 </li>
 <li><strong>Lecture 3</strong>
 <ul>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture3.1-oopIntro2/src/oopIntro2"><em>oopIntro2</em></a></li>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture3.2-inheritance/src/inheritance"><em>inheritance</em></a></li>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture3.3-inheritance2/src/inheritance2"><em>inheritance2</em></a></li>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture3.4-homework/src/homework"><em>homework</em></a></li>
+<li><a<em>oopIntro2</em></a></li>
+<li><a<em>inheritance</em></a></li>
+<li><a<em>inheritance2</em></a></li>
+<li><a<em>homework</em></a></li>
 </ul>
 </li>
 <li><strong>Lecture 4</strong>
 <ul>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture4.1-interface/src/interfaces"><em>interface</em></a></li>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture4.2-homework2/src"><em>homework2</em></a></li>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture4.3-homework3/src/homework3"><em>homework3</em></a></li>
+<li><a<em>interface</em></a></li>
+<li><a<em>homework2</em></a></li>
+<li><a<em>homework3</em></a></li>
 </ul>
 </li>
 <li><strong>Lecture 5</strong>
 <ul>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture5-nLayeredDemo/src/nLayeredDemo"><em>nLayeredDemo</em></a></li>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture5.2-homework/src/homework"><em>homework</em></a></li>
+<li><a<em>nLayeredDemo</em></a></li>
+<li><a<em>homework</em></a></li>
 </ul>
 </li>
 <li><strong>Lecture 6</strong>
 <ul>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture6.1-springIntro/src/main/java/kodlamaio/northwind"><em>springIntro</em></a></li>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture6.2-homework2"><em>homework2</em></a></li>
+<li><a<em>springIntro</em></a></li>
+<li><a<em>homework2</em></a></li>
 </ul>
 </li>
 <li><strong>Lecture 7</strong><li>swaggerAndResult</li>
 <ul>
 <ul>
 </li>
-<li><strong>Lecture 8</strong><li>Spring JPA/Hibernate</li>
+<li><strong>Lecture 8</strong>
+<ul>
+<li><a<em>Spring JPA/Hibernate</em></a></li>
+</ul>
+</li>
+<li><strong>Lecture 9</strong>
+<li></li>
 </ul>
 </article>
 
