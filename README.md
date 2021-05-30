@@ -9,6 +9,9 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 <ul>
 <li><strong>Lecture 1</strong>
 <ul>
+<li><a<em>intro</em></a></li>
+</ul>
+<ul>
 </ul>
 </li>
 <li><strong>Lecture 2</strong>
