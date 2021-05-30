@@ -73,5 +73,7 @@ Inceleyip oneri ve goruslerinizi melikkrc25@gmail.com adresine iletebilirsiniz.
 
 Yildiz vermeyi unutmayalım.:) 
 
-![image](https://user-images.githubusercontent.com/61596919/117069343-08f3cf00-ad35-11eb-8863-c67b1f0f5760.png)
+<a href="/courses/enrolled/1332369" data-role="course-box-link">
+<img src="https://user-images.githubusercontent.com/61596919/117069343-08f3cf00-ad35-11eb-8863-c67b1f0f5760.png"></a>
+
 
