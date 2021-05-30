@@ -45,12 +45,10 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 <li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture6.2-homework2"><em>homework2</em></a></li>
 </ul>
 </li>
-<li><strong>Lecture 7</strong>
+<li><strong>Lecture 7</strong><li>swaggerAndResult</li>
 <ul>
-<li><a href="https://github.com/karcan/javaBootcamp/tree/master/lecture7.1-swaggerAndResult/src/main/java/kodlamaio/northwind"><em>swaggerAndResult</em></a></li>
-</ul>
 </li>
-</ul>
+<li><strong>Lecture 8</strong><li>Spring JPA/Hibernate</li>
 </article>
 
 Inceleyip oneri ve goruslerinizi melikkrc25@gmail.com adresine iletebilirsiniz.
