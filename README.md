@@ -57,6 +57,16 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 <li><a<em>Spring JPA/Hibernate</em></a></li>
 </ul>
 </li>
+<li><strong>Lecture 9</strong>
+<ul>
+<li><a<em>Spring AOP</em></a></li>
+</ul>
+</li>
+<li><strong>Lecture 10</strong>
+<ul>
+<li><a<em>Spring Security</em></a></li>
+</ul>
+</li>
 </article>
 
 Inceleyip oneri ve goruslerinizi melikkrc25@gmail.com adresine iletebilirsiniz.
