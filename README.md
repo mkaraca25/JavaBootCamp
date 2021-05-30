@@ -50,14 +50,11 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 <li><strong>Lecture 7</strong><li>swaggerAndResult</li>
 </ul>
 </li>
-<ul>
 <li><strong>Lecture 8</strong>
+<ul>
 <li><a<em>Spring JPA/Hibernate</em></a></li>
 </ul>
 </li>
-<li><strong>Lecture 9</strong>
-<li></li>
-</ul>
 </article>
 
 Inceleyip oneri ve goruslerinizi melikkrc25@gmail.com adresine iletebilirsiniz.
