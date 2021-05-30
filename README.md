@@ -48,11 +48,10 @@ Engin DEMIROG yotube javaBootCamp HW ve projeler
 </ul>
 </li>
 <li><strong>Lecture 7</strong><li>swaggerAndResult</li>
-<ul>
-<ul>
+</ul>
 </li>
-<li><strong>Lecture 8</strong>
 <ul>
+<li><strong>Lecture 8</strong>
 <li><a<em>Spring JPA/Hibernate</em></a></li>
 </ul>
 </li>
